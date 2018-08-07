@@ -1,0 +1,847 @@
+[ 2017-06-27T15:31:30+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T15:31:30+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T15:31:30+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T15:31:30+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T15:31:30+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T15:31:30+08:00 ][ error ] [1]Class 'think\worker\Server' not found[D:\wamp\www\tp5\application\push\Controller\Worker.php:8]
+[ 2017-06-27T15:43:55+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T15:43:55+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T15:43:55+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T15:43:55+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T15:43:55+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:04:50+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:04:50+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:04:50+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T16:04:50+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:04:50+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:16:08+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:16:08+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:16:08+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T16:16:08+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:16:08+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:18:01+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:18:01+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:18:01+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T16:18:01+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:18:01+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:18:23+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:18:23+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:18:23+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T16:18:23+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:18:23+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:19:20+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:19:20+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:19:20+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T16:19:20+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:19:20+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:21:38+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:21:38+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:21:38+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:21:38+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:21:38+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:25:15+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:25:15+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:25:15+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:25:15+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:25:15+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:25:15+08:00 ][ error ] [2]stream_socket_server(): php_network_getaddresses: getaddrinfo failed: 不知道这样的主机。 [D:\wamp\www\tp5\vendor\workerman\workerman-for-win\Worker.php:739]
+[ 2017-06-27T16:25:39+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:25:39+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:25:39+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:25:39+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:25:39+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:26:37+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:26:37+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:26:37+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:26:37+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:26:37+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:27:30+08:00 ][ error ] [1]Class 'app\push\controller\Gateway' not found[D:\wamp\www\tp5\application\push\Controller\Worker.php:45]
+[ 2017-06-27T16:27:58+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:27:58+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:27:58+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:27:58+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:27:58+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:27:59+08:00 ][ error ] [1]Class 'app\push\controller\Gateway' not found[D:\wamp\www\tp5\application\push\Controller\Worker.php:45]
+[ 2017-06-27T16:36:18+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:36:18+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:36:18+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:36:18+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:36:18+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:36:39+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:36:39+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:36:39+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:36:39+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:36:39+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:37:35+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:37:35+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:37:35+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:37:35+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:37:35+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:37:44+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:37:44+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:37:44+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:37:44+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:37:44+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:38:07+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:38:07+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:38:07+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:38:07+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:38:07+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:38:34+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:38:34+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:38:34+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:38:34+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:38:34+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:56:20+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:56:20+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:56:20+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:56:20+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:56:20+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:56:47+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:56:47+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:56:47+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:56:47+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:56:47+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:57:36+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:57:36+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:57:36+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:57:36+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:57:36+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:58:06+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:58:06+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:58:06+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:58:06+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:58:06+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:58:06+08:00 ][ error ] [1]Undefined class constant 'connections'[D:\wamp\www\tp5\application\push\Controller\Worker.php:19]
+[ 2017-06-27T16:58:25+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:58:25+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:58:25+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:58:25+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:58:25+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T16:58:41+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T16:58:41+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T16:58:41+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T16:58:41+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T16:58:41+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T17:00:26+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T17:00:26+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T17:00:26+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T17:00:26+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T17:00:26+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T17:00:26+08:00 ][ error ] [1]Undefined class constant 'connections'[D:\wamp\www\tp5\application\push\Controller\Worker.php:19]
+[ 2017-06-27T17:01:27+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T17:01:27+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T17:01:27+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T17:01:27+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T17:01:27+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T17:01:59+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T17:01:59+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T17:01:59+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T17:01:59+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T17:01:59+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T17:02:58+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T17:02:58+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T17:02:58+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T17:02:58+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T17:02:58+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T17:04:39+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T17:04:39+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T17:04:39+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T17:04:39+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T17:04:39+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T17:05:47+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T17:05:47+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T17:05:47+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T17:05:47+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T17:05:47+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T17:05:48+08:00 ][ error ] [1]Access to undeclared static property: think\worker\Server::$worker[D:\wamp\www\tp5\application\push\Controller\Worker.php:19]
+[ 2017-06-27T17:06:16+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T17:06:16+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T17:06:16+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T17:06:16+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T17:06:16+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T17:06:17+08:00 ][ error ] [1]Access to undeclared static property: think\worker\Server::$port[D:\wamp\www\tp5\application\push\Controller\Worker.php:19]
+[ 2017-06-27T17:06:58+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T17:06:58+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T17:06:58+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T17:06:58+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T17:06:58+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T17:06:59+08:00 ][ error ] [1]Access to undeclared static property: app\push\controller\Worker::$port[D:\wamp\www\tp5\application\push\Controller\Worker.php:19]
+[ 2017-06-27T17:07:18+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T17:07:19+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T17:07:19+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T17:07:19+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T17:07:19+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T17:07:29+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T17:07:29+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T17:07:29+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2017-06-27T17:07:29+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T17:07:29+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T17:07:57+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T17:07:57+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T17:07:57+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T17:07:57+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T17:07:57+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T17:07:57+08:00 ][ error ] [1]Access to undeclared static property: app\push\controller\Worker::$worker[D:\wamp\www\tp5\application\push\Controller\Worker.php:19]
+[ 2017-06-27T17:50:01+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T17:50:01+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T17:50:01+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T17:50:01+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T17:50:01+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T17:50:03+08:00 ][ error ] [1]Access to undeclared static property: think\worker\Server::$worker[D:\wamp\www\tp5\application\push\Controller\Worker.php:19]
+[ 2017-06-27T18:00:28+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:00:28+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:00:28+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:00:28+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:00:28+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T18:02:02+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:02:02+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:02:02+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:02:02+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:02:02+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T18:02:12+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:02:12+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:02:12+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:02:12+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:02:12+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T18:02:29+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:02:29+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:02:29+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:02:29+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:02:29+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T18:02:48+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:02:48+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:02:48+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:02:48+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:02:48+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T18:03:19+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:03:19+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:03:19+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:03:19+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:03:19+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T18:03:19+08:00 ][ error ] [1]Access to undeclared static property: think\worker\Server::$worker[D:\wamp\www\tp5\thinkphp\library\think\worker\Server.php:46]
+[ 2017-06-27T18:03:30+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:03:30+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:03:30+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:03:30+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:03:30+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T18:03:30+08:00 ][ error ] [1]Access to undeclared static property: think\worker\Server::$worker[D:\wamp\www\tp5\thinkphp\library\think\worker\Server.php:46]
+[ 2017-06-27T18:07:18+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:07:18+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:07:18+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:07:18+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:07:18+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T18:07:18+08:00 ][ error ] [1]Cannot access empty property[D:\wamp\www\tp5\thinkphp\library\think\worker\Server.php:46]
+[ 2017-06-27T18:07:30+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:07:30+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:07:30+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:07:30+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:07:30+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T18:07:30+08:00 ][ error ] [4096]Object of class Workerman\Worker could not be converted to string[D:\wamp\www\tp5\thinkphp\library\think\worker\Server.php:46]
+[ 2017-06-27T18:07:49+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:07:49+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:07:49+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:07:49+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:07:49+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T18:08:21+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:08:21+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:08:21+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:08:21+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:08:21+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T18:08:35+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:08:35+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:08:35+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:08:35+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:08:35+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T18:09:39+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:09:39+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:09:39+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:09:39+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:09:39+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T18:12:45+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:12:45+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:12:45+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:12:45+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:12:45+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T18:14:26+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:14:26+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:14:26+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:14:26+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:14:26+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-06-27T18:15:12+08:00 ][ info ] [ LANG ] D:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-06-27T18:15:12+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-06-27T18:15:12+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-06-27T18:15:12+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-06-27T18:15:12+08:00 ][ info ] [ PARAM ] array (
+)

@@ -1,0 +1,1385 @@
+[ 2018-08-07T09:55:25+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T09:55:25+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T09:55:25+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T09:55:25+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T09:55:25+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T10:53:04+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T10:53:04+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T10:53:04+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T10:53:04+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T10:53:04+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T10:59:24+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T10:59:24+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T10:59:24+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T10:59:24+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T10:59:24+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T11:11:28+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T11:11:28+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T11:11:28+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T11:11:28+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T11:11:28+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T11:12:29+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T11:12:29+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T11:12:29+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T11:12:29+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T11:12:29+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T11:13:06+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T11:13:06+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T11:13:06+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T11:13:06+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T11:13:06+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T11:13:11+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T11:13:11+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T11:13:11+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T11:13:11+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T11:13:11+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T11:16:07+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T11:16:07+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T11:16:07+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T11:16:07+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T11:16:07+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T11:24:09+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T11:24:09+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T11:24:09+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T11:24:09+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T11:24:09+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T11:24:54+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T11:24:54+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T11:24:54+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T11:24:54+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T11:24:54+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T11:27:35+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T11:27:35+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T11:27:35+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T11:27:35+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T11:27:35+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T11:40:22+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T11:40:22+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T11:40:22+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T11:40:22+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T11:40:22+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T11:42:01+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T11:42:01+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T11:42:01+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T11:42:01+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T11:42:01+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T11:43:02+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T11:43:02+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T11:43:02+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T11:43:02+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T11:43:02+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T11:43:35+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T11:43:35+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T11:43:35+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T11:43:35+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T11:43:35+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T11:46:09+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T11:46:09+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T11:46:09+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T11:46:09+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T11:46:09+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T12:33:25+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T12:33:25+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T12:33:25+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T12:33:25+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T12:33:25+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T12:34:50+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T12:34:50+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T12:34:50+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T12:34:50+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T12:34:50+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T12:35:01+08:00 ][ error ] [1]Call to a member function send() on array[D:\myphp_www\PHPTutorial\WWW\tpworker\application\push\Controller\Worker.php:57]
+[ 2018-08-07T12:36:50+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T12:36:50+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T12:36:50+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T12:36:50+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T12:36:50+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T13:19:19+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T13:19:19+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T13:19:19+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T13:19:19+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T13:19:19+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T13:20:12+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T13:20:12+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T13:20:12+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T13:20:12+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T13:20:12+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T13:20:57+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T13:20:57+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T13:20:57+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T13:20:57+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T13:20:57+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T13:41:49+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T13:41:49+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T13:41:49+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T13:41:49+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T13:41:49+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T13:41:49+08:00 ][ error ] [1]Class 'app\push\controller\Timer' not found[D:\myphp_www\PHPTutorial\WWW\tpworker\application\push\Controller\Worker.php:108]
+[ 2018-08-07T13:43:11+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T13:43:11+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T13:43:11+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T13:43:11+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T13:43:11+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T13:43:46+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T13:43:46+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T13:43:46+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T13:43:46+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T13:43:46+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T13:45:43+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T13:45:43+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T13:45:43+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T13:45:43+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T13:45:43+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T13:45:44+08:00 ][ error ] [8]Use of undefined constant hello - assumed 'hello'[D:\myphp_www\PHPTutorial\WWW\tpworker\application\push\Controller\Worker.php:113]
+[ 2018-08-07T13:46:17+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T13:46:17+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T13:46:17+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T13:46:17+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T13:46:17+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T13:48:39+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T13:48:39+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T13:48:39+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T13:48:39+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T13:48:39+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T13:55:13+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T13:55:13+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T13:55:13+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T13:55:13+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T13:55:13+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T13:57:20+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T13:57:20+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T13:57:20+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T13:57:20+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T13:57:20+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T13:57:49+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T13:57:49+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T13:57:49+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T13:57:49+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T13:57:49+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T14:01:18+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T14:01:18+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T14:01:18+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T14:01:18+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T14:01:18+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T14:08:57+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T14:08:57+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T14:08:57+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T14:08:57+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T14:08:57+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T14:09:22+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T14:09:22+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T14:09:22+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T14:09:22+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T14:09:23+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T14:10:41+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T14:10:41+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T14:10:41+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T14:10:41+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T14:10:41+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T14:11:54+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T14:11:54+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T14:11:54+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T14:11:54+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T14:11:54+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T14:13:06+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T14:13:06+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T14:13:06+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T14:13:06+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T14:13:06+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T14:13:16+08:00 ][ error ] [1]Object of class Workerman\Connection\TcpConnection could not be converted to string[D:\myphp_www\PHPTutorial\WWW\tpworker\application\push\Controller\Worker.php:60]
+[ 2018-08-07T14:16:00+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T14:16:00+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T14:16:00+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T14:16:00+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T14:16:00+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T14:16:10+08:00 ][ error ] [1]Object of class Workerman\Connection\TcpConnection could not be converted to string[D:\myphp_www\PHPTutorial\WWW\tpworker\application\push\Controller\Worker.php:60]
+[ 2018-08-07T14:16:52+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T14:16:52+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T14:16:52+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T14:16:52+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T14:16:52+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T14:17:40+08:00 ][ error ] [1]Object of class Workerman\Connection\TcpConnection could not be converted to string[D:\myphp_www\PHPTutorial\WWW\tpworker\application\push\Controller\Worker.php:60]
+[ 2018-08-07T14:19:49+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T14:19:49+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T14:19:49+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T14:19:49+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T14:19:49+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T14:20:12+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T14:20:12+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T14:20:12+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2018-08-07T14:20:12+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T14:20:12+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T14:30:49+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T14:30:49+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T14:30:49+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => '-d',
+  ),
+)
+[ 2018-08-07T14:30:49+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T14:30:49+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T15:02:22+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T15:02:22+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T15:02:22+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T15:02:22+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T15:02:22+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T15:48:34+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T15:48:34+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T15:48:34+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T15:48:34+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T15:48:34+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T15:48:59+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T15:48:59+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T15:48:59+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T15:48:59+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T15:48:59+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T16:00:42+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T16:00:42+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T16:00:42+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T16:00:42+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T16:00:42+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T16:12:16+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T16:12:16+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T16:12:16+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T16:12:16+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T16:12:16+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T16:25:09+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T16:25:09+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T16:25:09+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T16:25:09+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T16:25:09+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T16:27:32+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T16:27:32+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T16:27:32+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T16:27:32+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T16:27:32+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T16:28:51+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T16:28:51+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T16:28:51+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T16:28:51+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T16:28:51+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T16:33:34+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T16:33:34+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T16:33:34+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T16:33:34+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T16:33:34+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T16:34:08+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T16:34:08+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T16:34:08+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T16:34:08+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T16:34:08+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T16:35:30+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T16:35:30+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T16:35:30+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T16:35:30+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T16:35:30+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T16:38:28+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T16:38:28+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T16:38:28+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T16:38:28+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T16:38:28+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T16:41:26+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T16:41:26+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T16:41:26+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T16:41:26+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T16:41:26+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T16:53:14+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T16:53:14+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T16:53:14+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T16:53:14+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T16:53:14+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:01:25+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:01:25+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:01:25+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:01:25+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:01:25+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:05:01+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:05:01+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:05:01+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:05:01+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:05:01+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:05:34+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:05:34+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:05:34+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:05:34+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:05:34+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:10:28+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:10:28+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:10:28+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:10:28+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:10:28+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:19:33+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:19:33+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:19:33+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:19:33+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:19:33+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:21:15+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:21:15+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:21:15+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:21:15+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:21:15+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:21:15+08:00 ][ error ] [1]Call to a member function send() on array[D:\myphp_www\PHPTutorial\WWW\tpworker\application\push\Controller\Worker.php:44]
+[ 2018-08-07T17:21:43+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:21:43+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:21:43+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:21:43+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:21:43+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:23:03+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:23:03+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:23:03+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:23:03+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:23:03+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:23:43+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:23:43+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:23:43+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:23:43+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:23:43+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:27:54+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:27:54+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:27:54+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:27:54+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:27:54+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:32:52+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:32:52+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:32:52+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:32:52+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:32:52+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:36:15+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:36:15+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:36:15+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:36:15+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:36:15+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:36:27+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:36:27+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:36:27+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:36:27+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:36:27+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:37:00+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:37:00+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:37:00+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:37:00+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:37:00+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:37:49+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:37:49+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:37:49+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:37:49+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:37:49+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:38:04+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:38:04+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:38:04+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:38:04+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:38:04+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:38:41+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:38:41+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:38:41+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:38:41+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:38:41+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:38:42+08:00 ][ error ] [1]Call to a member function send() on array[D:\myphp_www\PHPTutorial\WWW\tpworker\application\push\Controller\Worker.php:45]
+[ 2018-08-07T17:38:58+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:38:58+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:38:58+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:38:58+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:38:58+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:38:58+08:00 ][ error ] [1]Call to a member function send() on array[D:\myphp_www\PHPTutorial\WWW\tpworker\application\push\Controller\Worker.php:45]
+[ 2018-08-07T17:39:30+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:39:30+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:39:30+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:39:30+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:39:30+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:40:41+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:40:41+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:40:41+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:40:41+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:40:41+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:41:35+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:41:35+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:41:35+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:41:35+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:41:35+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:42:57+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:42:57+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:42:57+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:42:57+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:42:57+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:43:47+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:43:47+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:43:47+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:43:47+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:43:47+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:46:55+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:46:55+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:46:55+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:46:55+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:46:55+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:48:25+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:48:25+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:48:25+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:48:25+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:48:25+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:50:06+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:50:06+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:50:06+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:50:06+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:50:06+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:50:29+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:50:29+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:50:29+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:50:29+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:50:29+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:51:29+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:51:29+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:51:29+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:51:29+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:51:29+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:52:20+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:52:20+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:52:20+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:52:20+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:52:20+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-08-07T17:53:32+08:00 ][ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\tpworker\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-08-07T17:53:32+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-08-07T17:53:32+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-08-07T17:53:32+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-08-07T17:53:32+08:00 ][ info ] [ PARAM ] array (
+)

@@ -1,0 +1,148 @@
+<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:87:"D:\myphp_www\PHPTutorial\WWW\tpworker\public/../application/index\view\index\index.html";i:1533635673;}*/ ?>
+<html>
+<header>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<script src="https://cdn.bootcss.com/jquery/1.9.1/jquery.min.js"></script>
+	<script type="text/javascript">
+		if (typeof console == "undefined") {
+			this.console = {
+				log: function (msg) {}
+			};
+		}
+		var ws, name, client_list={};
+
+		function connect(){
+			// 创建websocket
+			ws = new WebSocket("ws://"+document.domain+":2346");
+			// 当socket连接打开时，输入用户名
+			ws.onopen = onopen;
+			// 当有消息时根据消息类型显示不同信息
+			ws.onmessage = onmessage;
+			ws.onclose = function() {
+				console.log("连接关闭，定时重连");
+				connect();
+			};
+			ws.onerror = function() {
+				console.log("出现错误");
+			};
+		}
+		// 连接建立时发送登录信息
+		function onopen()
+		{
+			if(!name)
+			{
+				name = prompt('输入你的名字：', '');
+				if(!name || name=='null'){
+					name = '游客';
+				}
+			}
+			var login_data = '{"type":"login","friend":"'+name.replace(/"/g, '\\"')+'","room_id":"房间1"}';
+			ws.send(login_data);
+		}
+
+		// 服务端发来消息时
+		function onmessage(e)
+		{
+			var data = eval("("+e.data+")");
+			switch(data['type']){
+					// 服务端ping客户端
+				case 'ping':
+					ws.send('{"type":"pong"}');
+					break;;
+					// 登录 更新用户列表
+				case 'login':
+
+					appendHtml(data['type'],data['data']+'登录了');
+					addOptions(data['data']);
+				case 'say':
+					console.log(data);
+					appendHtml(data['type'],data['data']);
+				default:
+					appendHtml(data['type'],data['data']);
+			}
+		}
+		function appendHtml(type,data){
+			$(".common").append("<p class='span'>"+data+"</p>");
+			if($('.span').length>10){
+				$('.span:first').remove();
+			}
+		}
+		function  addOptions(data){
+			$(".friend").append('<option value="'+data+'">'+data+'</option>');
+		}
+		$(function () {
+			$("button").click(function(){
+				var content = $.trim($("input").val());
+				var friend = $("select").find("option:selected").val();
+				if(friend==''){
+					return false;
+				}
+				var message = '{"type":"say","data":"'+content+'","friend":"'+friend+'"}';
+				ws.send(message);
+				//appendHtml('say',content);
+			})
+		});
+		connect();
+	</script>
+	<style>
+		*{
+			margin:0;
+			padding:0;
+		}
+		.meta{
+			width:500px;
+			height:800px;
+			border-radius: 5%;
+			border:1px solid #000;
+			margin:10px auto;
+			position:relative;
+		}
+		.common{
+			width:100%;
+			height:600px;
+			margin-top:30px;
+			border:1px solid #000;
+			line-height:40px;
+			text-align:center;
+		}
+		.my{
+			display: flex;
+			flex-direction: row;
+			justify-content:space-between;
+		}
+		.input{
+			width: 76%;
+			height: 113px;
+		}
+		button{
+			width: 23%;
+			height: 113px;
+		}
+		.friend{
+			width:100%;
+			height:30px;
+			margin:0 auto;
+		}
+	</style>
+</header>
+<body>
+
+<div class="meta">
+	<div class="common">
+
+	</div>
+	<div class="friend_div">
+		<select name="friend" class="friend">
+			<option>请选择发送好友</option>
+		</select>
+	</div>
+	<div class="my">
+		<input type="text" name="content" class="input"/>
+		<button value="发送" type="button" />
+	</div>
+
+
+</div>
+</body>
+<html>
+
