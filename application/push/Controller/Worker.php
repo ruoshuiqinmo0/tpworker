@@ -7,18 +7,18 @@ use Workerman\Lib\Timer;
 
 class Worker extends Server
 {
-    protected $socket = 'websocket://192.168.1.179:2346';
-    protected $processes = 4;
+    protected $socket = 'websocket://192.168.142.1:2346';
+    protected $processes = 1;
 
     /**
      * 收到信息
      * @param $connection
      * @param $data
      */
-    public function onMessage($connection, $data)
+    public function onMessage($connection, $json_data)
     {
         // 客户端传递的是json数据
-        $message_data = json_decode($data, true);
+        $message_data = json_decode($json_data, true);
         if (!$message_data) {
             return;
         }
@@ -29,61 +29,44 @@ class Worker extends Server
 
                 return;
 
-            // 客户端登录 message格式: {type:login, name:xx,,' room_id:1} ，添加到客户端，广播给所有客户端xx进入聊天室
+            // 客户端登录 message格式: {type:login, friend:xx}
             case 'login':
-                if (!isset($message_data['room_id'])) {
-                    throw new \Exception("\$message_data['room_id'] not set. client_ip:{$_SERVER['REMOTE_ADDR']} \$message:$message");
-                }
                 if (!isset($connection->uid)) {
                     // 没验证的话把第一个包当做uid（这里为了方便演示，没做真正的验证）
+
                     $connection->uid = $message_data['friend'];
+
                     /* 保存uid到connection的映射，这样可以方便的通过uid查找connection，
                      * 实现针对特定uid推送数据
                      */
-                    $this->worker->connection[$connection->uid] = $connection;
-                    //$this->worker->Connection = $connection;
+                    $this->worker->uidconnections[$connection->uid] = $connection;
 
-                    foreach ($this->worker->connections as $conn) {
+                    foreach ($this->worker->uidconnections as $conn) {
                         if ($conn->uid != $message_data['friend']) {
-                            $conn->send("{'type':'login','data':'" .$connection->uid."''}");
+                            $conn->send("{'type':'login','data':'" .$connection->uid."'}");
                         }
                     }
                 }
                 break;
             case 'say':
-                $this->sendMsg($message_data);
-//                $worker = $this->worker;
-//                foreach($worker->connections as $conn)
-//                {
-//                     $conn->send("{'type':'say','data':'".$message_data['data'].'进程id'.$worker->id."'}");
-                //$string = implode(' ', $worker->connections);
-                //$conn->send("{'type':'say','data':'当前对象链接对象id'}");
-                // $conn->send("{'type':'say','data':'当前对象链接对象id'".json_encode($worker->connections)."'}");
-//                }
+                $this->sendMsgByFriend($message_data);
                 break;
         }
     }
 
     //单独发送指定用户
-    protected function sendMsg( $message_data)
+    protected function sendMsgByFriend($message_data)
     {
-
-        $friend = $message_data['friend'];
-       // if (isset($this->worker->uidConnections[$friend])) {
+        $worker = $this->worker;
+        if(isset($worker->uidconnections[$message_data['friend']]))
+        {
+            $connection = $worker->uidconnections[$message_data['friend']];
             $message = [
                 'type' => 'say',
                 'data' => $message_data['data'],
             ];
-            //$connection = $this->worker->connections[$friend];
-           // $connection->send(json_encode($message));
-            foreach ($this->worker->connections as $conn) {
-                if ($conn->uid = $message_data['friend']) {
-                    $conn->send(json_encode($message));
-                }
-            }
-       // }
-
-
+            $connection->send(json_encode($message));
+        }
     }
 
     /**
@@ -92,7 +75,7 @@ class Worker extends Server
      */
     public function onConnect($connection)
     {
-        echo $connection->id."\n\r";
+
     }
 
     /**
@@ -105,7 +88,8 @@ class Worker extends Server
             'type' => 'say',
             'data' => $data
         ];
-        foreach ($worker->uidConnections as $connection) {
+
+        foreach ($worker->uidconnections as $connection) {
             $connection->send($message);
         }
     }
