@@ -2,13 +2,15 @@
 
 namespace app\push\controller;
 
+
 use think\worker\Server;
 use Workerman\Lib\Timer;
+use app\push\model\user;
 
 class Worker extends Server
 {
-    protected $socket = 'websocket://192.168.142.1:2346';
-    protected $processes = 1;
+    protected $socket = 'websocket://192.168.1.179:2346';
+    protected $processes = 4;
 
     /**
      * 收到信息
@@ -18,52 +20,60 @@ class Worker extends Server
     public function onMessage($connection, $json_data)
     {
         // 客户端传递的是json数据
-        $message_data = json_decode($json_data, true);
-        if (!$message_data) {
+        $arr_data = json_decode($json_data, true);
+        if (!$arr_data) {
             return;
         }
         // 根据类型执行不同的业务
-        switch ($message_data['type']) {
+        switch ($arr_data['type']) {
             // 客户端回应服务端的心跳
             case 'pong':
 
-                return;
-
+                break;
+            //客户端发送客户手机信息
+            case 'information':
+                $token = user::createUser($arr_data);
+                $connection->send(json_encode(['errcode'=>0,'msg'=>'ok','token'=>$token]));
+                break;
             // 客户端登录 message格式: {type:login, friend:xx}
             case 'login':
                 if (!isset($connection->uid)) {
                     // 没验证的话把第一个包当做uid（这里为了方便演示，没做真正的验证）
 
-                    $connection->uid = $message_data['friend'];
+                    $connection->uid = $arr_data['friend'];
 
                     /* 保存uid到connection的映射，这样可以方便的通过uid查找connection，
                      * 实现针对特定uid推送数据
                      */
                     $this->worker->uidconnections[$connection->uid] = $connection;
-
+                    //$connection->send("{'type':'login','data':'" .$connection->uid."'}");
                     foreach ($this->worker->uidconnections as $conn) {
-                        if ($conn->uid != $message_data['friend']) {
+                        //if ($conn->uid != $arr_data['friend']) {
                             $conn->send("{'type':'login','data':'" .$connection->uid."'}");
-                        }
+                        //}
                     }
                 }
                 break;
             case 'say':
-                $this->sendMsgByFriend($message_data);
+                $this->sendMsgByFriend($arr_data);
                 break;
+            default :
+                $connection->send(json_encode(['errcode'=>0,'msg'=>'ok']));
+                break;
+
         }
     }
 
     //单独发送指定用户
-    protected function sendMsgByFriend($message_data)
+    protected function sendMsgByFriend($arr_data)
     {
         $worker = $this->worker;
-        if(isset($worker->uidconnections[$message_data['friend']]))
+        if(isset($worker->uidconnections[$arr_data['friend']]))
         {
-            $connection = $worker->uidconnections[$message_data['friend']];
+            $connection = $worker->uidconnections[$arr_data['friend']];
             $message = [
                 'type' => 'say',
-                'data' => $message_data['data'],
+                'data' => $arr_data['data'],
             ];
             $connection->send(json_encode($message));
         }
